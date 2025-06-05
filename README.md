@@ -2,7 +2,7 @@
 
 A simulation-based project analyzing the optimal strategy for betting on the better team in sports series (best-of-3, best-of-5, best-of-7). This study combines probability theory, expected value modeling, Monte Carlo simulation, and chi-square testing to determine when betting on the favorite is most profitable.
 
-📄 [Download Full Report](report/)
+[📥 Download Full Report (PDF)](report/Sports_Betting_Strategy_Simulation_Using_R.pdf)
 
 ---
 
