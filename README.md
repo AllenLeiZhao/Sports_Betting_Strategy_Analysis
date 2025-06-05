@@ -68,11 +68,10 @@ R code is located in the `/code/` folder and includes:
 
 ## 📁 Project Structure
 
-Sports_Betting_Strategy_Analysis/
-├── assets/ # Visualization figures
-├── code/ # R source code and simulation functions
-├── report/ # Final project PDF report
-└── README.md # You are here
+- `/assets/` – Visualization figures  
+- `/code/` – R source code and simulation functions  
+- `/report/` – Final PDF report with findings and recommendations  
+- `README.md` – You are here
 
 ---
 
